@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
+    <div>
+      <img src="/public/hero.png" alt="Project Banner">
       [▶️ Watch the demo video](./public/movieproject.mp4)
-    </a>
+    </div>
   <br />
   
   <div>
