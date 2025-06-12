@@ -1,8 +1,10 @@
 <div align="center">
   <br />
-    <div>
+    <div align="center">
       <img src="/public/hero.png" alt="Project Banner">
-      [▶️ Watch the demo video](./public/movieproject.mp4)
+       <a href="./public/movieproject.mp4" download class="inline-block bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition">
+          ▶️ Download Demo Video
+        </a>
     </div>
   <br />
   
